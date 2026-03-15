@@ -9,6 +9,18 @@ This project is a simple example of **web scraping for data science**, using the
 
 ---
 
+## Table of Contents
+
+- [Data Source](data-source)
+- [Data Collected](data-collected)
+- [Technologies Used](technologies-used)
+- [Project Structure](project-sture)
+- [Project Workflow](project-workflow)
+- [Output](output)
+- [Author](author)
+
+---
+
 ## 🌐 Data Source
 
 Data is scraped from:
